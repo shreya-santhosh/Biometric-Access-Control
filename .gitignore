@@ -1,0 +1,6 @@
+database/ 
+enrolled_faces/ 
+logs/ 
+__pycache__/ 
+*.pyc 
+biometric_env/ 
